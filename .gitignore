@@ -1,0 +1,16 @@
+# Dependency directories
+/node_modules
+
+# Build and compiled files
+/build
+/dist
+
+# Environment variables file
+.env
+
+# IDE or editor specific files
+.vscode
+.idea
+
+# Mac specific files
+.DS_Store
